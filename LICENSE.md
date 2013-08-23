@@ -19,3 +19,11 @@ freely, subject to the following restrictions:
     software.
 4.  This notice may not be removed or altered from any source
     distribution.
+
+###
+
+Refactored build instructions for ROS's rosbuild system implemented by Dustin Gooding in 2013.
+Same license above applies.
+
+Nick's hayai:   https://github.com/nickbruun/hayai
+Dustin's hayai: https://github.com/dustingooding/hayai
