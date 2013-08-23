@@ -1,4 +1,4 @@
-#include "hayai-test.hpp"
+#include "hayai/hayai-test.hpp"
 
 #ifndef __HAYAI_TESTFACTORY
 #define __HAYAI_TESTFACTORY

@@ -1,7 +1,7 @@
-#include "hayai-benchmarker.hpp"
-#include "hayai-test.hpp"
-#include "hayai-defaulttestfactory.hpp"
-#include "hayai-fixture.hpp"
+#include "hayai/hayai-benchmarker.hpp"
+#include "hayai/hayai-test.hpp"
+#include "hayai/hayai-defaulttestfactory.hpp"
+#include "hayai/hayai-fixture.hpp"
 
 #define BENCHMARK_CLASS_NAME_(fixture_name, benchmark_name) \
     fixture_name ## _ ## benchmark_name ## _Benchmark

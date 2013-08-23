@@ -3,9 +3,9 @@
 #include <limits>
 #include <iomanip>
 
-#include "hayai-console.hpp"
-#include "hayai-testfactory.hpp"
-#include "hayai-testdescriptor.hpp"
+#include "hayai/hayai-console.hpp"
+#include "hayai/hayai-testfactory.hpp"
+#include "hayai/hayai-testdescriptor.hpp"
 
 #ifndef __HAYAI_BENCHMARKER
 #define __HAYAI_BENCHMARKER

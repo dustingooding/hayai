@@ -1,7 +1,7 @@
 #include <string>
 
-#include "hayai-test.hpp"
-#include "hayai-testfactory.hpp"
+#include "hayai/hayai-test.hpp"
+#include "hayai/hayai-testfactory.hpp"
 
 #ifndef __HAYAI_TESTDESCRIPTOR
 #define __HAYAI_TESTDESCRIPTOR
