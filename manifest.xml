@@ -1,0 +1,13 @@
+<package>
+  <description brief="hayai">
+	C++ benchmarking framework
+  </description>
+  <author>Nick Bruun</author>
+  <license>LICENSE.md</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/hayai</url>
+  <export>
+    <cpp cflags="-I${prefix}/include"/>
+  </export>
+</package>
+
